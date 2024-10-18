@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+passlib[bcrypt] # For password hashing
+alembic        # For database migrations
+python-dotenv   # For environment variables (.env)
+requests      # If you need to make HTTP requests
